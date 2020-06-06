@@ -1,3 +1,6 @@
+/*You are given an array of N+2 integer elements. All elements of the array are in range 1 to N. And all elements occur 
+once except two numbers which occur twice. Find the two repeating numbers.*/
+
 #include <iostream>
 #include <unordered_map>
 using namespace std;
