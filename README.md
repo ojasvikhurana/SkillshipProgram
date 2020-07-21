@@ -11,3 +11,5 @@
 -Week4and5: Hashing, Bit Masking and Stacks
 
 -Week6: Queues and Combinatorics
+
+-Week7: Trees,Graphs and Greedy
