@@ -2,9 +2,11 @@
 
 ## Track: Competitive Coding
 
+### This repo contains various questions from LeetCode, GFG, HackerEarth on DS and Algo.
+
 -Week1: Arrays and Searching
 
--Week2: strings and Basic Maths
+-Week2: Strings and Basic Maths
 
 -Week3: Number Theory and Linked Lists
 
